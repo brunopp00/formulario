@@ -53,7 +53,9 @@ if (isset($_POST['submit'])) {
       background-color: rgba(0, 0, 0, 0.6);
       padding: 15px;
       border-radius: 15px;
-      width: 1920px;
+      min-width: 500px;
+      max-width: 800px;
+      margin: auto;
     }
 
     fieldset {
