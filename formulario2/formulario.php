@@ -53,7 +53,7 @@ if (isset($_POST['submit'])) {
       background-color: rgba(0, 0, 0, 0.6);
       padding: 15px;
       border-radius: 15px;
-      min-width: 500px;
+      min-width: 300px;
       max-width: 800px;
       margin: auto;
     }
